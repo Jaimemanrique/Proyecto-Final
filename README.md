@@ -19,5 +19,5 @@ Para el proyecto final decidí hacer un analisis de la NBA desde la temporada 20
 </p> 📍 Por ultimo, entre todas las temporadas, hubo una de las mayores rivalidades en toda la nba durante 4 años (Cleveland Cavaliers vs Golden State Warriors) e hice un analisis de estos dos equipos y sus estrellas (Lebron James & Stephen Curry) </p>
 
 <p align="center"> <img width="809" alt="Screenshot 2022-12-15 at 19 15 18" src="https://user-images.githubusercontent.com/114593402/207936801-7ac22e33-8195-4f54-a3b2-8adff5623fec.png"> </p>
-<p align="center"> ## ¡¿FIN DEL BOOTCAMP! </p>
+<p align="center"> ##¡FIN DEL BOOTCAMP! </p>
 
